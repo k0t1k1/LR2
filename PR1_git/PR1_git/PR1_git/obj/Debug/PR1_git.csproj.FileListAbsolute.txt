@@ -1,0 +1,11 @@
+D:\PR1_git\PR1_git\PR1_git\bin\Debug\PR1_git.exe.config
+D:\PR1_git\PR1_git\PR1_git\bin\Debug\PR1_git.exe
+D:\PR1_git\PR1_git\PR1_git\bin\Debug\PR1_git.pdb
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.csproj.AssemblyReference.cache
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.csproj.SuggestedBindingRedirects.cache
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.Form1.resources
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.Properties.Resources.resources
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.csproj.GenerateResource.cache
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.csproj.CoreCompileInputs.cache
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.exe
+D:\PR1_git\PR1_git\PR1_git\obj\Debug\PR1_git.pdb
